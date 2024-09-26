@@ -47,7 +47,7 @@ class _SplashScreenState extends State<SplashScreen> {
               Text(
                 'UpTodo',
                 style: TextStyle(
-                    color: AppColors.splashText,
+                    color: AppColors.appPrimaryTextColor,
                     fontSize: ResponsiveUI.sp(40, context)),
               )
             ],
